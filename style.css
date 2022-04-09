@@ -182,14 +182,15 @@ h1{
 }
 
 
- @media screen and (max-width: 468px) {
+
+  @media screen and (max-width: 851px) {
     #navt h2{
        display: none;
     
     }
     #vid1564730217{
-        width: 95%;
-        height: 200px;
+        width: 75%;
+        height: 100px;
     }
 
     .mensagem{
@@ -199,14 +200,14 @@ h1{
     }
   }
 
-  @media screen and (max-width: 851px) {
+  @media screen and (max-width: 468px) {
     #navt h2{
        display: none;
     
     }
     #vid1564730217{
-        width: 45%;
-        height: 100px;
+        width: 95%;
+        height: 200px;
     }
 
     .mensagem{
